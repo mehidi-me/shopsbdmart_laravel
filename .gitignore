@@ -20,9 +20,9 @@ yarn-error.log
 
 updates/
 
-*.lock
+
 resources/lang/en.json
-.env
+
 updates.zip
 ecommerce.zip
 install.zip
